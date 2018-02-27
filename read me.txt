@@ -1,0 +1,8 @@
+1- drop Package file into document/maya/2018/scripts
+
+2- in script editor:
+
+import Package.create_car
+import Package.spike
+
+3- then assign the car's name as the addSpikes()arrugment (which I don't know how since the midterm) and that should in theory deform the car.
